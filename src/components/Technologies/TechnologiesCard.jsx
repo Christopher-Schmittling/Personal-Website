@@ -5,7 +5,7 @@ function TechnologiesCard(props) {
   return (
     <div className="technologies-card">
       <div className="technologies-card__symbol">
-        <i class={props.symbol}></i>
+        <i className={props.symbol}></i>
       </div>
       <div className="technologies-card__title">{props.title}</div>
     </div>
