@@ -77,18 +77,6 @@ label {
     max-width: 80%;
     margin: 0 auto;
   }
-  /* .row-1 {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-  }
-  .row-2 {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-  } */
   form {
     width: 100%;
     padding: 0;
