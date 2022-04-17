@@ -1,0 +1,24 @@
+.frontend-technologies {
+  padding: 2rem 0;
+  background-color: #393e46;
+  color: #eeeeee;
+}
+.backend-technologies {
+  padding: 2rem 0;
+  background-color: #eeeeee;
+  color: #393e46;
+}
+.database-technologies {
+  padding: 2rem 0;
+  background-color: #393e46;
+  color: #eeeeee;
+}
+.technologies-cards {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.technologies-cards__header {
+  text-align: center;
+}
