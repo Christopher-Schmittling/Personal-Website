@@ -43,7 +43,7 @@ textarea {
   font-weight: bold;
   padding: 10px 30px 5px;
   border-radius: 10px;
-  background-image: #393e46;
+  background-color: #393e46;
   color: #00adb5;
 }
 .row-1 {
@@ -70,6 +70,9 @@ input {
 label {
   margin-bottom: 0.5rem;
   float: left;
+}
+.action {
+  color: #00adb5;
 }
 
 @media (max-width: 1050px) {
